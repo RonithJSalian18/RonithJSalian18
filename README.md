@@ -2,7 +2,7 @@
 
  I'm **Ronith J Salian**  
  
-🔭 Currently working on: Full Stack Development using nextjs
+🔭 Currently working on: Full Stack Development using nextjs<br>
 🌱 Currently learning: Data Structures and Algorithms  
 💡 Interests: Passionate about exploring new technologies and solving real-world problems.  
 🧩 Skills: Proficient in Python and strong problem-solving abilities.  
@@ -39,6 +39,8 @@
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) 
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+
 
 
 
