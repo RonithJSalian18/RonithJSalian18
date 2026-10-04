@@ -24,7 +24,6 @@ I build full-stack products end to end — typed React front ends, Python APIs, 
 - 🎓 **B.Tech, Information Science & Engineering** — NMAM Institute of Technology, Nitte (2023–2027)
 - 💼 **Intern** at Sasken Technologies (Jun–Jul 2025)
 - 🔭 **Building:** full-stack apps with Next.js, TypeScript & FastAPI, plus applied AI/ML systems
-- 🏦 **Currently:** UniBank MDM (Unified Customer 360) for the BNP Paribas Innoversité hackathon
 - 🌱 **Sharpening:** Data Structures & Algorithms on [LeetCode](https://leetcode.com/u/ronith_salian/)
 - 📍 Udupi, Karnataka, India
 
@@ -152,7 +151,7 @@ I build full-stack products end to end — typed React front ends, Python APIs, 
 
 <!-- ===================== FOOTER ===================== -->
 <p align="center">
-  <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=RonithJSalian18&icon=0&color=0" alt="Profile views" /></a>
+  <img src="https://komarev.com/ghpvc/?username=RonithJSalian18&style=flat-square&color=0e7490&label=Profile+views" alt="Profile views" />
 </p>
 
 <p align="center">
