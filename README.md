@@ -151,7 +151,7 @@ I build full-stack products end to end — typed React front ends, Python APIs, 
 
 <!-- ===================== FOOTER ===================== -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RonithJSalian18&style=flat-square&color=0e7490&label=Profile+views" alt="Profile views" />
+  <img src="https://api.visitorbadge.io/api/visitors?path=RonithJSalian18&label=Profile%20views&countColor=%230e7490&style=flat-square" alt="Profile views" />
 </p>
 
 <p align="center">
